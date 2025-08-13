@@ -1,0 +1,12 @@
+# Virtual Environment
+/ml_env/
+pyvenv.cfg
+
+# Data files (raw, processed, and intermediate)
+/data/
+
+# Python cache
+__pycache__/
+
+# Any downloaded zip files
+*.zip
