@@ -39,13 +39,13 @@ git clone [https://github.com/your-username/sentiment-analysis-app.git](https://
 cd sentiment-analysis-app
 ```
 ### 2. Create and Activate a Virtual Environment
-# Create a virtual environment
+## Create a virtual environment
 python -m venv ml_env
 
-# Activate it (Windows)
+## Activate it (Windows)
 .\ml_env\Scripts\activate
 
-# Activate it (macOS/Linux)
+## Activate it (macOS/Linux)
 source ml_env/bin/activate
 
 ### 3. Install Dependencies
